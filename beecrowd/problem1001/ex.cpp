@@ -8,7 +8,7 @@ int main() {
     int B = 9;
     int X = A + B;
 
-    std::cout << "X = " << X << std::endl;
+    cout << "X = " << X << std::endl;
 
     return 0;
 }
